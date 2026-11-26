@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#162044">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Klara Ponto">
+<link rel="manifest" href="/apontamento/manifest.json">
+<link rel="icon" type="image/svg+xml" href="/assets/icons/klara-apontamento.svg">
+<link rel="apple-touch-icon" href="/assets/icons/klara-apontamento-192.png">
+<title>Klara Apontamento</title>
+<style>
+:root{--violet:#253775;--violet-dark:#162044;--violet-soft:#eef2ff;--ink:#162044;--muted:#64748b;--line:#e2e8f0;--bg:#f4f7fb;--green:#10b981;--green-soft:#e9f7f2;--gold:#f5c451;--shadow:0 24px 70px rgba(22,32,68,.12)}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink);background:radial-gradient(ellipse at 50% -12%,#dbeafe 0,transparent 42%),var(--bg)}button,input{font:inherit}button{cursor:pointer}.app-shell{min-height:100svh;display:flex;align-items:center;justify-content:center;padding:28px 18px}.device{width:min(100%,460px);min-height:700px;background:rgba(255,255,255,.96);border:1px solid rgba(255,255,255,.9);border-radius:30px;box-shadow:var(--shadow);overflow:hidden;position:relative;display:flex;flex-direction:column}.topbar{height:76px;padding:0 28px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #f1f5f9}.brand{display:flex;align-items:center;gap:11px;font-weight:800;letter-spacing:.025em;font-size:14px}.brand-mark{width:36px;height:36px;border-radius:12px;background:linear-gradient(145deg,#162044,#253775);border:1.5px solid #f5c451;display:grid;place-items:center;color:#fff;box-shadow:0 6px 16px rgba(22,32,68,.28)}.brand-mark svg{width:21px}.brand small{display:block;color:#0ea5a4;font-size:9px;font-weight:700;letter-spacing:.18em;margin-top:2px}.connection{display:flex;align-items:center;gap:7px;color:#0ea5a4;font-size:11px;font-weight:650}.dot{width:7px;height:7px;border-radius:50%;background:#10b981;box-shadow:0 0 0 4px #d1fae5}.content{padding:36px 30px 30px;flex:1;display:flex;flex-direction:column}.eyebrow{font-size:10px;letter-spacing:.18em;text-transform:uppercase;font-weight:800;color:#0ea5a4;text-align:center}.hero-icon{width:66px;height:66px;border-radius:22px;background:var(--violet-soft);color:var(--violet);display:grid;place-items:center;margin:0 auto 19px}.hero-icon svg{width:30px;height:30px}.title{text-align:center;font-size:25px;letter-spacing:-.045em;line-height:1.2;margin:0;font-weight:780}.subtitle{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;margin:10px auto 0;max-width:280px}.field{margin-top:34px}.field label{display:block;font-size:11px;font-weight:750;color:#334155;margin:0 0 9px 2px}.cpf-wrap{position:relative}.cpf-wrap svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);width:18px;color:#64748b}.cpf{width:100%;height:58px;border:1px solid #cbd5e1;border-radius:15px;background:#f8fafc;padding:0 16px 0 46px;font-size:16px;letter-spacing:.08em;color:var(--ink);outline:none;transition:.2s}.cpf:focus{border-color:#253775;box-shadow:0 0 0 4px rgba(37,55,117,.14);background:#fff}.primary{border:0;border-radius:15px;height:58px;width:100%;background:linear-gradient(105deg,#162044,#253775);color:white;font-weight:760;font-size:14px;letter-spacing:.01em;box-shadow:0 10px 22px rgba(22,32,68,.26);display:flex;align-items:center;justify-content:center;gap:10px;transition:transform .2s,box-shadow .2s,filter .2s}.primary:hover{transform:translateY(-2px);box-shadow:0 14px 26px #6558d94a;filter:saturate(1.08)}.primary:active{transform:scale(.985)}.primary svg{width:18px}.field .primary{margin-top:13px}.helper{text-align:center;color:#aaa7b8;font-size:10px;margin:15px 0 0}.footer{padding:18px 24px 22px;border-top:1px solid #f3f2f7;text-align:center;color:#aaa7b8;font-size:10px}.footer strong{color:#827da4;font-weight:750}.employee{display:none}.welcome{font-size:13px;color:#88859c;text-align:center;margin:2px 0 7px}.person-name{text-align:center;font-size:26px;letter-spacing:-.045em;margin:0;font-weight:790}.avatar{width:68px;height:68px;border-radius:23px;background:linear-gradient(145deg,#e8e5ff,#d8d2ff);color:#5f53cb;display:grid;place-items:center;margin:0 auto 18px;font-size:22px;font-weight:800;box-shadow:inset 0 0 0 1px #d6d1ff}.clock-card{margin:30px 0 0;border:1px solid #efedf7;border-radius:21px;padding:23px 18px 20px;text-align:center;background:linear-gradient(145deg,#fff,#fbfaff)}.clock-label{font-size:10px;text-transform:uppercase;letter-spacing:.16em;font-weight:800;color:#a09db1}.clock{font-size:47px;letter-spacing:-.065em;line-height:1.2;font-weight:750;font-variant-numeric:tabular-nums;margin-top:9px}.date{font-size:12px;color:#9290a4;margin-top:5px}.shift-pill{display:inline-flex;align-items:center;gap:7px;margin-top:17px;padding:8px 12px;border-radius:30px;background:#f1f0ff;color:#6558d9;font-size:10px;font-weight:750}.shift-pill .mini-dot{width:6px;height:6px;border-radius:50%;background:#7669e5}.punch-area{margin-top:23px}.punch-button{height:64px;font-size:15px;border-radius:17px}.punch-note{text-align:center;color:#aaa7b8;font-size:10px;line-height:1.5;margin:13px 0 0}.last-record{margin-top:24px;padding:15px 16px;border-radius:16px;background:#faf9fd;border:1px solid #f0eef6;display:flex;align-items:center;justify-content:space-between;gap:10px}.last-left{display:flex;align-items:center;gap:11px}.last-icon{width:34px;height:34px;border-radius:11px;background:#eeecff;color:#675bd5;display:grid;place-items:center}.last-icon svg{width:16px}.last-title{font-size:11px;font-weight:750}.last-sub{font-size:10px;color:#9996aa;margin-top:3px}.last-time{font-size:12px;font-weight:780;font-variant-numeric:tabular-nums}.back{border:0;background:none;color:#8e8ba2;font-size:11px;font-weight:700;padding:14px 0 0;align-self:center}.back:hover{color:var(--violet)}.modal-backdrop{position:fixed;inset:0;background:rgba(24,22,47,.42);backdrop-filter:blur(7px);display:none;align-items:center;justify-content:center;padding:20px;z-index:10;animation:fade .18s ease}.modal{width:min(100%,390px);background:#fff;border-radius:26px;padding:27px 25px 23px;box-shadow:0 30px 90px #17132f45;animation:rise .24s cubic-bezier(.2,.8,.2,1)}.modal-mark{width:54px;height:54px;border-radius:18px;background:#efedff;color:var(--violet);display:grid;place-items:center;margin:0 auto 16px}.modal-mark svg{width:25px}.modal h2{text-align:center;font-size:20px;letter-spacing:-.035em;margin:0}.modal-desc{text-align:center;color:#8d8aa0;font-size:12px;line-height:1.55;margin:8px auto 20px;max-width:270px}.time-panel{border:1px solid #eeecf5;background:#fbfaff;border-radius:17px;padding:17px;text-align:center}.time-panel .clock{font-size:38px;margin:0}.time-panel .date{margin-top:4px}.location-row{display:flex;align-items:center;gap:9px;padding:14px 2px 4px;color:#8a879b;font-size:10px}.location-row svg{width:16px;color:#8a83dc;flex-shrink:0}.location-status{margin-left:auto;color:#6b64c8;font-weight:750}.modal-actions{display:grid;gap:9px;margin-top:18px}.confirm{height:54px}.secondary{height:49px;border:1px solid #eceaf3;border-radius:14px;background:#fff;color:#77748b;font-weight:700;font-size:12px}.secondary:hover{background:#f8f7fc}.success-state{display:none;text-align:center;padding:22px 5px 4px}.success-ring{width:74px;height:74px;border-radius:50%;margin:0 auto 18px;background:#e8f7f1;color:#219b83;display:grid;place-items:center;box-shadow:0 0 0 9px #e8f7f155}.success-ring svg{width:32px}.success-state h2{font-size:22px}.success-state p{color:#8b899c;font-size:12px;line-height:1.6}.receipt{margin:20px 0;padding:15px;border:1px dashed #d9d5e8;border-radius:15px;background:#fbfaff}.receipt strong{display:block;font-size:25px;letter-spacing:-.04em;font-variant-numeric:tabular-nums}.receipt span{display:block;color:#9692a8;font-size:10px;margin-top:4px}.toast{position:fixed;left:50%;bottom:22px;transform:translate(-50%,20px);opacity:0;pointer-events:none;background:#27243d;color:#fff;border-radius:12px;padding:12px 16px;font-size:11px;box-shadow:0 10px 30px #16132f33;transition:.25s;z-index:30;white-space:nowrap}.toast.show{opacity:1;transform:translate(-50%,0)}.hidden{display:none!important}@keyframes fade{from{opacity:0}to{opacity:1}}@keyframes rise{from{opacity:0;transform:translateY(15px) scale(.98)}to{opacity:1;transform:none}}@media(max-width:520px){.app-shell{padding:0;background:#fff}.device{min-height:100svh;width:100%;border:0;border-radius:0;box-shadow:none}.topbar{height:70px;padding:0 22px}.content{padding:35px 24px 28px}.footer{padding-bottom:max(20px,env(safe-area-inset-bottom))}.clock{font-size:45px}}@media(min-height:850px){.content{justify-content:center;padding-top:45px;padding-bottom:45px}}
+</style></head>
+<body><main class="app-shell"><section class="device" aria-label="Klara Apontamento">
+<header class="topbar"><div class="brand"><div class="brand-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4v16M19 4 9 12l10 8"/></svg></div><div>KLARA<small>APONTAMENTO</small></div></div><div class="connection"><i class="dot"></i><span id="connectionText">Conectado</span></div></header>
+<section class="content" id="identifyView"><div class="hero-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/><path d="M19 20a7 7 0 0 0-14 0M4 4h2M18 4h2M4 18v2M20 18v2"/></svg></div><div class="eyebrow">Acesso do colaborador</div><h1 class="title" style="margin-top:9px">Identifique-se</h1><p class="subtitle">Informe seu CPF para acessar sua área de marcação de ponto.</p><form class="field" id="cpfForm"><label for="cpfInput">CPF</label><div class="cpf-wrap"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M7 10h4M7 14h2m4-4h6m-6 4h4"/></svg><input class="cpf" id="cpfInput" inputmode="numeric" autocomplete="off" maxlength="14" placeholder="000.000.000-00" aria-label="CPF do colaborador"></div><button class="primary" type="submit">Continuar <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button><p class="helper">Seus dados são utilizados para localizar seu cadastro.</p></form></section>
+<section class="content employee" id="employeeView"><div class="avatar" id="avatar">MO</div><p class="welcome">Seja bem-vindo(a),</p><h1 class="person-name" id="employeeName">Nome do colaborador</h1><div class="clock-card"><div class="clock-label">Horário atual</div><div class="clock" id="liveClock">00:00:00</div><div class="date" id="liveDate">—</div><div class="shift-pill"><i class="mini-dot"></i><span id="nextAction">Próxima marcação · Entrada</span></div></div><div class="punch-area"><button class="primary punch-button" id="openConfirm"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Bater meu ponto</button><p class="punch-note">Confira seus dados e confirme a marcação na próxima etapa.</p></div><div class="last-record"><div class="last-left"><div class="last-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12 8v4l2.5 1.5"/><circle cx="12" cy="12" r="9"/></svg></div><div><div class="last-title" id="lastTitle">Nenhuma marcação hoje</div><div class="last-sub" id="lastSub">Seu histórico aparecerá aqui.</div></div></div><div class="last-time" id="lastTime">—</div></div><button class="back" id="changeUser">Sair e trocar de colaborador</button></section>
+<footer class="footer">Uma experiência simples e segura · <strong>Klara Gestão</strong></footer></section></main>
+<div class="modal-backdrop" id="confirmModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal"><div id="confirmContent"><div class="modal-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h2 id="modalTitle">Confirmar marcação?</h2><p class="modal-desc">Confira o horário abaixo. Ao confirmar, sua marcação será registrada.</p><div class="time-panel"><div class="clock" id="confirmClock">00:00:00</div><div class="date" id="confirmDate">—</div></div><div class="location-row"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/></svg><span id="locationText">Localização será consultada ao confirmar</span><span class="location-status" id="locationStatus">Pendente</span></div><div class="modal-actions"><button class="primary confirm" id="confirmPunch">Confirmar ponto</button><button class="secondary" id="cancelConfirm">Voltar</button></div></div><div class="success-state" id="successContent"><div class="success-ring"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 4 4L19 6"/></svg></div><h2>Marcação registrada!</h2><p id="successMessage">Seu registro foi salvo.</p><div class="receipt"><strong id="receiptTime">00:00:00</strong><span id="receiptDate">—</span><span id="receiptId">Comprovante local</span></div><button class="primary" id="closeSuccess">Concluir</button></div></div></div><div class="toast" id="toast"></div>
+<script>
+const $=id=>document.getElementById(id);
+let employee=null,todayPunches=[],nextPunch=null,locationEvidence={status:'Não consultada'},clockTimer=null,confirmTimestamp=null;
+const pad=n=>String(n).padStart(2,'0');
+function now(){return new Date()}
+function fmtTime(d){return `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`}
+function fmtDate(d){return d.toLocaleDateString('pt-BR',{weekday:'long',day:'2-digit',month:'long',year:'numeric'})}
+function cpfDigits(v){return v.replace(/\D/g,'').slice(0,11)}
+function validCPF(c){if(c.length!==11||/^([0-9])\1+$/.test(c))return false;let s=0;for(let i=0;i<9;i++)s+=+c[i]*(10-i);let r=(s*10)%11;if(r===10)r=0;if(r!==+c[9])return false;s=0;for(let i=0;i<10;i++)s+=+c[i]*(11-i);r=(s*10)%11;if(r===10)r=0;return r===+c[10]}
+function maskCPF(v){v=cpfDigits(v);return v.replace(/^(\d{3})(\d)/,'$1.$2').replace(/^(\d{3})\.(\d{3})(\d)/,'$1.$2.$3').replace(/\.(\d{3})(\d)/,'.$1-$2')}
+
+$('cpfInput').addEventListener('input',e=>e.target.value=maskCPF(e.target.value));
+$('cpfForm').addEventListener('submit',async e=>{
+  e.preventDefault();
+  const cpf=cpfDigits($('cpfInput').value);
+  if(!validCPF(cpf)){toast('Confira o CPF informado.');$('cpfInput').focus();return}
+  const btn=$('cpfForm').querySelector('button[type="submit"]');
+  btn.disabled=true;
+  try{
+    const res=await fetch('/api/colaboradores/'+encodeURIComponent(cpf),{cache:'no-store'});
+    const data=await res.json().catch(()=>({}));
+    if(!res.ok){toast(data.error||'Cadastro não localizado ou sem permissão.');return}
+    employee=data.colaborador;
+    todayPunches=Array.isArray(data.pontos_hoje)?data.pontos_hoje:[];
+    nextPunch=data.proxima_marcacao||null;
+    showEmployee();
+  }catch(err){
+    toast('Não foi possível conectar ao servidor central.');
+  }finally{
+    btn.disabled=false;
+  }
+});
+
+function showEmployee(){
+  $('identifyView').style.display='none';
+  $('employeeView').style.display='flex';
+  $('employeeName').textContent=employee.name;
+  $('avatar').textContent=employee.name.split(' ').filter(Boolean).slice(0,2).map(x=>x[0]).join('').toUpperCase()||'KL';
+  updateClock();
+  clearInterval(clockTimer);
+  clockTimer=setInterval(updateClock,1000);
+  renderLast();
+}
+
+function updateClock(){
+  const d=now();
+  $('liveClock').textContent=fmtTime(d);
+  $('liveDate').textContent=fmtDate(d);
+  $('confirmClock').textContent=fmtTime(d);
+  $('confirmDate').textContent=fmtDate(d);
+}
+
+function renderLast(){
+  $('nextAction').textContent=nextPunch?('Próxima marcação · '+nextPunch.label):'Jornada de hoje concluída';
+  if(!todayPunches.length){
+    $('lastTitle').textContent='Nenhuma marcação hoje';
+    $('lastSub').textContent='Seu histórico aparecerá aqui.';
+    $('lastTime').textContent='—';
+    return;
+  }
+  const r=todayPunches[todayPunches.length-1];
+  $('lastTitle').textContent=(r.label||'Marcação')+' registrada';
+  $('lastSub').textContent='Hoje · '+(r.location_status||'Localização não confirmada')+(r.protocolo?' · '+r.protocolo:'');
+  $('lastTime').textContent=r.hora||r.punched_at?.slice(11,19)||'—';
+}
+
+$('openConfirm').addEventListener('click',()=>{
+  if(!nextPunch){toast('Todas as marcações previstas para hoje já foram registradas.');return}
+  updateClock();
+  confirmTimestamp=now();
+  locationEvidence={status:'Não consultada'};
+  $('locationText').textContent='Localização será consultada ao confirmar';
+  $('locationStatus').textContent='Pendente';
+  $('confirmContent').style.display='block';
+  $('successContent').style.display='none';
+  $('confirmModal').style.display='flex';
+  document.body.style.overflow='hidden';
+});
+
+$('cancelConfirm').addEventListener('click',closeModal);
+function closeModal(){$('confirmModal').style.display='none';document.body.style.overflow=''}
+
+function getLocation(){
+  return new Promise(resolve=>{
+    if(!navigator.geolocation){resolve({status:'Indisponível'});return}
+    navigator.geolocation.getCurrentPosition(
+      p=>resolve({status:'Capturada',lat:p.coords.latitude,lon:p.coords.longitude,accuracy:Math.round(p.coords.accuracy)}),
+      ()=>resolve({status:'Permissão negada ou indisponível'}),
+      {enableHighAccuracy:true,timeout:7000,maximumAge:0}
+    );
+  });
+}
+
+$('confirmPunch').addEventListener('click',async()=>{
+  const btn=$('confirmPunch');
+  btn.disabled=true;
+  btn.textContent='Registrando…';
+  try{
+    const loc=await getLocation();
+    locationEvidence=loc;
+    $('locationStatus').textContent=loc.status==='Capturada'?'Capturada':'Não confirmada';
+    const res=await fetch('/api/pontos',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({
+        cpf:employee.cpf,
+        colaborador_id:employee.id,
+        latitude:loc.lat??null,
+        longitude:loc.lon??null,
+        accuracy:loc.accuracy??null,
+        location_status:loc.status
+      })
+    });
+    const data=await res.json().catch(()=>({}));
+    if(!res.ok){toast(data.error||'Falha ao registrar marcação.');return}
+    todayPunches=Array.isArray(data.pontos_hoje)?data.pontos_hoje:[...todayPunches,data.ponto];
+    nextPunch=data.proxima_marcacao||null;
+    const d=now();
+    $('receiptTime').textContent=data.ponto.hora||fmtTime(d);
+    $('receiptDate').textContent=fmtDate(d);
+    $('receiptId').textContent='Protocolo '+data.ponto.protocolo;
+    $('successMessage').textContent=`${data.ponto.label} de ${employee.name} registrada com sucesso.`;
+    $('confirmContent').style.display='none';
+    $('successContent').style.display='block';
+    renderLast();
+  }catch(err){
+    toast('Erro de conexão ao salvar o ponto.');
+  }finally{
+    btn.disabled=false;
+    btn.innerHTML='Confirmar ponto';
+  }
+});
+
+$('closeSuccess').addEventListener('click',closeModal);
+$('changeUser').addEventListener('click',()=>{
+  employee=null;todayPunches=[];nextPunch=null;
+  clearInterval(clockTimer);
+  $('employeeView').style.display='none';
+  $('identifyView').style.display='flex';
+  $('cpfInput').value='';
+  $('cpfInput').focus();
+});
+$('confirmModal').addEventListener('click',e=>{if(e.target===$('confirmModal'))closeModal()});
+function toast(t){$('toast').textContent=t;$('toast').classList.add('show');setTimeout(()=>$('toast').classList.remove('show'),2600)}
+
+async function checkServerHealth(){
+  if(!navigator.onLine){$('connectionText').textContent='Sem conexão';return}
+  try{
+    const r=await fetch('/api/health',{cache:'no-store'});
+    $('connectionText').textContent=r.ok?'Conectado':'Sem conexão';
+  }catch{$('connectionText').textContent='Sem conexão'}
+}
+checkServerHealth();
+window.addEventListener('online',checkServerHealth);
+window.addEventListener('offline',()=>$('connectionText').textContent='Sem conexão');
+</script><script src="/assets/pwa-install.js" defer></script></body></html>

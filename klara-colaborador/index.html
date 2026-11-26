@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#162044">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Klara Portal">
+<link rel="manifest" href="/colaborador/manifest.json">
+<link rel="icon" type="image/svg+xml" href="/assets/icons/klara-colaborador.svg">
+<link rel="apple-touch-icon" href="/assets/icons/klara-colaborador-192.png">
+<title>Klara | Painel do Colaborador</title>
+<style>
+:root{--ink:#162044;--muted:#64748b;--line:#e2e8f0;--bg:#f4f7fb;--white:#fff;--purple:#253775;--purple2:#162044;--soft:#eef2ff;--teal:#0ea5a4;--tealsoft:#e6fffa;--amber:#d99b26;--ambersoft:#fef9c3;--red:#dc2626;--gold:#f5c451;--shadow:0 9px 28px rgba(22,32,68,.07);--r:18px}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}button,input,select,textarea{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid rgba(37,55,117,.3);outline-offset:2px}
+.shell{min-height:100vh}.sidebar{position:fixed;inset:0 auto 0 0;width:244px;background:#162044;color:#fff;padding:22px 15px;display:flex;flex-direction:column;z-index:5}.brand{display:flex;align-items:center;gap:11px;padding:2px 10px 22px;border-bottom:1px solid #ffffff19}.mark{width:37px;height:37px;border-radius:12px;background:linear-gradient(145deg,#f7d36a,#d99b26);display:grid;place-items:center;color:#162044;font-weight:900;font-size:20px}.brand b{font-size:16px;letter-spacing:-.4px}.brand small{display:block;color:#94a3b8;font-size:10px;letter-spacing:.5px}.navlabel{color:#94a3b8;font-size:9px;font-weight:800;letter-spacing:1.4px;text-transform:uppercase;padding:22px 11px 8px}.nav button{width:100%;border:0;background:transparent;color:#cbd5e1;padding:12px 11px;border-radius:11px;display:flex;align-items:center;gap:12px;text-align:left;margin:3px 0;font-size:12px;font-weight:650}.nav button.active,.nav button:hover{background:#253775;color:#fff}.nav button.active{box-shadow:inset 3px 0 #f5c451}.ico{width:21px;text-align:center;font-size:17px}.sidebottom{margin-top:auto;border-top:1px solid #ffffff19;padding:15px 8px 0;display:flex;align-items:center;gap:10px}.avatar{width:38px;height:38px;border-radius:13px;background:#e9e5ff;color:#5d51c8;display:grid;place-items:center;font-weight:800;flex-shrink:0}.sidebottom small{display:block;color:#aaa8c2;font-size:10px}.main{margin-left:244px;padding:26px clamp(18px,4vw,52px) 55px}.inner{max-width:1160px;margin:auto}.top{display:flex;align-items:center;justify-content:space-between;margin-bottom:27px}.crumb{color:var(--muted);font-size:11px}.topright{display:flex;gap:9px;align-items:center}.iconbtn{width:38px;height:38px;border:1px solid var(--line);background:#fff;border-radius:12px;color:#66657b}.mobilebrand{display:none}.heading{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;margin-bottom:22px}.eyebrow{color:var(--purple);font-size:9px;letter-spacing:1.5px;text-transform:uppercase;font-weight:850}.heading h1{font-size:29px;line-height:1.15;letter-spacing:-1px;margin:6px 0}.sub{color:var(--muted);font-size:12px}.profilepill{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:8px 12px}.profilepill .avatar{width:36px;height:36px}.profilepill b{font-size:11px;display:block}.profilepill small{color:var(--muted);font-size:9px}
+.tabs{display:flex;gap:7px;padding:5px;background:#eeedf5;border-radius:13px;width:max-content;max-width:100%;margin-bottom:18px}.tab{border:0;background:transparent;color:#77778d;padding:9px 17px;border-radius:9px;font-size:11px;font-weight:750}.tab.active{background:#fff;color:var(--purple);box-shadow:0 2px 8px #27234d0d}
+.page{display:none;animation:fade .18s ease}.page.active{display:block}@keyframes fade{from{opacity:.3;transform:translateY(4px)}to{opacity:1;transform:none}}
+.card{background:#fff;border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:19px;min-width:0}.grid{display:grid;gap:14px}.welcome{display:flex;align-items:center;justify-content:space-between;gap:18px;background:linear-gradient(110deg,#fff 0%,#f4f2ff 100%);margin-bottom:15px}.welcome h2{font-size:18px;letter-spacing:-.45px;margin:2px 0 4px}.welcome p{margin:0;color:var(--muted);font-size:11px}.welcome .avatar{width:55px;height:55px;border-radius:18px;font-size:17px}.welcomeRight{display:flex;align-items:center;gap:13px}.badge{display:inline-flex;align-items:center;gap:6px;padding:5px 9px;border-radius:30px;background:var(--tealsoft);color:#238b77;font-size:9px;font-weight:800}.badge:before{content:"";width:6px;height:6px;background:currentColor;border-radius:50%}
+.kpis{grid-template-columns:repeat(3,minmax(0,1fr));margin-bottom:15px}.kpi{padding:16px}.kpi small{display:block;color:var(--muted);font-size:10px;font-weight:700}.kpi strong{display:block;font-size:22px;letter-spacing:-.7px;margin:7px 0 1px}.kpi span{font-size:9px;color:var(--muted)}.sectionhead{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:13px}.sectionhead b{font-size:12px}.sectionhead small{font-size:10px;color:var(--muted)}
+.actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.action{display:flex;align-items:center;gap:12px;padding:14px;border:1px solid var(--line);border-radius:13px;background:#fff;text-align:left;color:var(--ink);transition:.16s}.action:hover{border-color:#c8c2f3;transform:translateY(-1px)}.actionicon{width:38px;height:38px;display:grid;place-items:center;border-radius:12px;background:var(--soft);color:var(--purple);font-size:17px;flex-shrink:0}.action b{display:block;font-size:11px}.action small{display:block;color:var(--muted);font-size:9px;margin-top:2px}.arrow{margin-left:auto;color:#aaa8ba;font-size:18px}
+.list{display:grid;gap:9px}.rowitem{display:flex;align-items:center;gap:12px;padding:13px;border:1px solid var(--line);border-radius:12px}.rowicon{width:35px;height:35px;border-radius:11px;background:var(--soft);color:var(--purple);display:grid;place-items:center;flex-shrink:0}.rowtext{flex:1;min-width:0}.rowtext b{display:block;font-size:11px}.rowtext small{display:block;color:var(--muted);font-size:9px;margin-top:2px}.rowitem .right{font-size:10px;color:var(--muted);text-align:right}
+.btn{border:1px solid var(--line);background:#fff;color:#55546c;border-radius:9px;padding:8px 12px;font-size:10px;font-weight:750}.btn.primary{background:var(--purple);border-color:var(--purple);color:#fff}.btn.soft{background:var(--soft);border-color:transparent;color:var(--purple)}.btn:disabled{opacity:.45;cursor:not-allowed}
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:13px;flex-wrap:wrap}.select{border:1px solid var(--line);border-radius:9px;background:#fff;color:var(--ink);padding:8px 10px;font-size:10px}.empty{padding:28px;text-align:center;border:1px dashed #dcd9ec;border-radius:14px;color:var(--muted);font-size:11px}.empty b{display:block;color:var(--ink);margin-bottom:4px;font-size:12px}
+.tablewrap{overflow:auto}table{border-collapse:collapse;width:100%;white-space:nowrap}th{text-align:left;text-transform:uppercase;letter-spacing:.5px;color:#9292a5;font-size:9px;padding:11px;border-bottom:1px solid var(--line)}td{font-size:10px;color:#626278;padding:12px 11px;border-bottom:1px solid #f0eff5}
+.callout{background:#f6f4ff;border:1px solid #e8e4ff;color:#625a9b;padding:12px 14px;border-radius:12px;font-size:10px;margin-bottom:13px}
+.modalback{position:fixed;inset:0;background:#1e1b36a8;display:none;align-items:center;justify-content:center;padding:18px;z-index:20}.modal{width:min(480px,100%);background:#fff;border-radius:18px;padding:21px;box-shadow:0 25px 80px #17132c44}.modal h3{margin:0 0 5px;font-size:17px}.modal p{margin:0 0 15px;color:var(--muted);font-size:11px}.field{width:100%;border:1px solid var(--line);border-radius:9px;padding:10px;font-size:11px;margin:5px 0 12px}.modalfoot{display:flex;justify-content:flex-end;gap:8px}
+.toast{position:fixed;bottom:20px;left:50%;transform:translate(-50%,20px);opacity:0;background:#292744;color:#fff;padding:11px 16px;border-radius:11px;font-size:11px;z-index:40;transition:.2s;pointer-events:none}.toast.show{opacity:1;transform:translate(-50%,0)}
+.mobilebar{display:none}
+@media(max-width:900px){.sidebar{width:210px}.main{margin-left:210px}.kpis{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:680px){.sidebar{display:none}.main{margin:0;padding:17px 15px 35px}.top{margin-bottom:20px}.mobilebrand{display:flex;align-items:center;gap:8px;font-weight:850;font-size:15px}.mobilebrand .mark{width:30px;height:30px;border-radius:9px;font-size:16px}.crumb{display:none}.heading{align-items:flex-start;flex-direction:column;margin-bottom:16px}.heading h1{font-size:25px}.profilepill{width:100%}.welcome{align-items:flex-start}.welcomeRight{gap:8px}.welcome .avatar{width:45px;height:45px}.kpis{gap:8px}.kpi{padding:12px 10px}.kpi strong{font-size:18px}.kpi small{font-size:9px}.actions{grid-template-columns:1fr}.card{padding:15px;border-radius:16px}.tabs{width:100%;display:grid;grid-template-columns:repeat(3,1fr)}.tab{padding:10px 4px}.mobilebar{position:fixed;display:flex;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--line);padding:9px 12px calc(9px + env(safe-area-inset-bottom));justify-content:space-around;z-index:8}.mobilebar button{border:0;background:transparent;color:#85859a;display:grid;justify-items:center;gap:3px;font-size:9px}.mobilebar button.active{color:var(--purple)}.mobilebar span{font-size:19px}.toolbar{align-items:stretch}.toolbar>*{flex:1}.rowitem{padding:11px}.welcome h2{font-size:16px}}
+</style></head>
+<body><div class="shell">
+<aside class="sidebar"><div class="brand"><div class="mark">K</div><div><b>klara</b><small>PAINEL DO COLABORADOR</small></div></div><div class="navlabel">Área do colaborador</div><nav class="nav"><button class="active" data-tab="ponto"><span class="ico">◷</span>Ponto</button><button data-tab="pagamento"><span class="ico">▤</span>Pagamento</button><button data-tab="chamados"><span class="ico">▧</span>Chamados</button></nav><div class="sidebottom"><div class="avatar" id="sideInitials">CO</div><div><b id="sideName">Colaborador</b><small>Área pessoal</small></div></div></aside>
+<main class="main"><div class="inner">
+<div class="top"><div class="mobilebrand"><div class="mark">K</div>klara <span style="color:var(--muted);font-weight:500">/ Pessoas</span></div><div class="crumb">Klara Pessoas / Área do colaborador</div><div class="topright"><button class="iconbtn" id="profileBtn" title="Conta e configurações">⚙</button></div></div>
+<div class="heading"><div><div class="eyebrow">PORTAL DO COLABORADOR</div><h1>Minha área</h1><div class="sub">Consulte suas informações e acompanhe suas solicitações.</div></div><div class="profilepill"><div class="avatar" id="profileInitials">CO</div><div><b id="profileName">Colaborador</b><small id="profileMeta">Perfil ainda não vinculado</small></div><span class="badge" style="margin-left:auto">Área pessoal</span></div></div>
+<div class="welcome card"><div><div class="eyebrow">BEM-VINDO(A)</div><h2 id="welcomeName">Olá, colaborador.</h2><p>Suas informações de trabalho reunidas em um só lugar.</p></div><div class="welcomeRight"><div class="avatar" id="welcomeInitials">CO</div></div></div>
+<div class="tabs" role="tablist"><button class="tab active" data-tab="ponto">Ponto</button><button class="tab" data-tab="pagamento">Pagamento</button><button class="tab" data-tab="chamados">Chamados</button></div>
+<section class="page active" id="page-ponto">
+<div class="grid kpis"><div class="card kpi"><small>Escala atual</small><strong id="scaleValue">—</strong><span>Conforme cadastro do RH</span></div><div class="card kpi"><small>Folhas pendentes</small><strong id="pendingCount">0</strong><span>Aguardando sua ciência</span></div><div class="card kpi"><small>Folhas assinadas</small><strong id="signedCount">0</strong><span>Histórico disponível</span></div></div>
+<div class="card" style="margin-bottom:14px"><div class="sectionhead"><b>Minha jornada</b><small id="monthLabel">Competência atual</small></div><div class="actions"><button class="action" data-action="schedule"><span class="actionicon">▦</span><span><b>Horários de trabalho</b><small>Consulte sua jornada e escala.</small></span><span class="arrow">›</span></button><button class="action" data-action="records"><span class="actionicon">◷</span><span><b>Pontos registrados</b><small>Consulte suas marcações do mês.</small></span><span class="arrow">›</span></button><button class="action" data-action="pending"><span class="actionicon">▱</span><span><b>Folhas pendentes</b><small>Consulte documentos para ciência.</small></span><span class="arrow">›</span></button><button class="action" data-action="signed"><span class="actionicon">✓</span><span><b>Folhas assinadas</b><small>Consulte seu histórico de assinaturas.</small></span><span class="arrow">›</span></button></div></div>
+<div class="card"><div class="sectionhead"><b>Últimas atualizações</b><small>Informações do RH</small></div><div id="updates" class="list"><div class="empty"><b>Nenhuma atualização disponível</b>Quando o RH disponibilizar informações, elas aparecerão aqui.</div></div></div>
+</section>
+<section class="page" id="page-pagamento">
+<div class="callout">Esta área é destinada à consulta de documentos disponibilizados pelo Financeiro. O Painel do Colaborador não calcula nem processa pagamentos.</div>
+<div class="card"><div class="sectionhead"><b>Meus documentos</b><small>Consulta individual</small></div><div class="toolbar"><select class="select" id="payType"><option value="todos">Todos os documentos</option><option>Holerite</option><option>Férias</option><option>13º salário</option><option>Adiantamento</option><option>Informe</option></select><select class="select" id="payYear"><option>2026</option><option>2025</option><option>2024</option></select></div><div id="payments" class="empty"><b>Nenhum documento disponibilizado</b>Os comprovantes aparecerão aqui quando forem publicados pelo Financeiro.</div></div>
+</section>
+<section class="page" id="page-chamados">
+<div class="toolbar"><div><div class="eyebrow">RELACIONAMENTO</div><div style="font-weight:800;font-size:16px;margin-top:3px">Meus chamados</div><div class="sub">Fale com os departamentos responsáveis e acompanhe as respostas.</div></div><button class="btn primary" id="newTicket">＋ Novo chamado</button></div>
+<div class="grid" style="grid-template-columns:repeat(3,minmax(0,1fr));margin-bottom:13px"><div class="card kpi"><small>Em aberto</small><strong id="openCount">0</strong></div><div class="card kpi"><small>Em atendimento</small><strong id="progressCount">0</strong></div><div class="card kpi"><small>Encerrados</small><strong id="closedCount">0</strong></div></div>
+<div class="card"><div class="sectionhead"><b>Histórico de solicitações</b><small>Privado</small></div><div id="tickets" class="empty"><b>Você ainda não abriu chamados</b>Use “Novo chamado” para enviar uma solicitação.</div></div>
+</section>
+</div></main>
+
+</div>
+<div class="modalback" id="modal"><div class="modal" id="modalContent"></div></div><div class="toast" id="toast"></div>
+<script>
+const $=id=>document.getElementById(id);
+let authenticated=false,currentUser=null,profile=null,pontos=[],schedules=[],rotations=[],documents=[],tickets=[];
+
+function initials(n){return (n||'Colaborador').trim().split(/\s+/).slice(0,2).map(x=>x[0]).join('').toUpperCase()||'CO'}
+function escapeHtml(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function fmtDateBr(iso){if(!iso||!iso.includes('-'))return iso||'—';return iso.split('-').reverse().join('/')}
+
+async function apiFetch(url,options={}){
+  const res=await fetch(url,{headers:{'Content-Type':'application/json',...(options.headers||{})},cache:'no-store',...options});
+  const data=await res.json().catch(()=>({}));
+  if(res.status===401){authenticated=false;openLoginModal();throw new Error(data.error||'Sessão encerrada. Faça login.')}
+  if(!res.ok)throw new Error(data.error||'Erro ao comunicar com o servidor.');
+  return data;
+}
+
+function setProfile(){
+  const n=profile?.name||currentUser?.name||'Colaborador';
+  const i=initials(n);
+  ['sideInitials','profileInitials','welcomeInitials'].forEach(x=>$(x).textContent=i);
+  $('sideName').textContent=n;
+  $('profileName').textContent=n;
+  $('welcomeName').textContent='Olá, '+n.split(' ')[0]+'.';
+  $('profileMeta').textContent=profile?.registration?('Matrícula '+profile.registration):(profile?.cpf?('CPF '+profile.cpf):(currentUser?.is_super_admin?'Administrador Mestre':(authenticated?'Conectado':'Perfil ainda não vinculado')));
+  $('scaleValue').textContent=profile?.scale||(currentUser?.is_super_admin?'Acesso irrestrito':'—');
+  $('signedCount').textContent=String(pontos.length);
+  $('pendingCount').textContent=String(tickets.filter(t=>t.status==='Aberto').length);
+  const ml=$('monthLabel');
+  if(ml){
+    const txt=new Date().toLocaleDateString('pt-BR',{month:'long',year:'numeric'});
+    ml.textContent=txt.charAt(0).toUpperCase()+txt.slice(1);
+  }
+}
+
+function renderUpdates(){
+  const el=$('updates');
+  if(!pontos.length){
+    el.innerHTML='<div class="empty"><b>Nenhuma marcação ou atualização recente</b>Seus pontos batidos no Klara Apontamento aparecerão aqui em tempo real.</div>';
+    return;
+  }
+  el.innerHTML=pontos.slice(0,8).map(p=>`
+    <div class="rowitem">
+      <div class="rowicon">◷</div>
+      <div class="rowtext">
+        <b>${escapeHtml(p.label||p.punch_type)}${p.colaborador_name?' · '+escapeHtml(p.colaborador_name):''}</b>
+        <small>${fmtDateBr(p.work_date)} às ${escapeHtml(p.hora)} · Protocolo ${escapeHtml(p.protocolo)} · ${escapeHtml(p.location_status||'Registrado')}</small>
+      </div>
+      <div class="right"><button class="btn soft" onclick="viewReceipt('${escapeHtml(p.id)}')">Comprovante</button></div>
+    </div>
+  `).join('');
+}
+
+window.viewReceipt=function(id){
+  const p=pontos.find(x=>x.id===id);
+  if(!p)return;
+  modal(`
+    <h3>Comprovante de Ponto</h3>
+    <p>Registro oficial gravado no banco central do ecossistema Klara.</p>
+    <div class="list">
+      <div class="rowitem"><div class="rowtext"><b>Colaborador</b><small>${escapeHtml(p.colaborador_name||profile?.name||currentUser?.name||'—')}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>Tipo de marcação</b><small>${escapeHtml(p.label||p.punch_type)}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>Data e hora</b><small>${fmtDateBr(p.work_date)} às ${escapeHtml(p.hora)}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>Protocolo</b><small>${escapeHtml(p.protocolo)}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>Geolocalização / Origem</b><small>${escapeHtml(p.location_status||'—')}${p.latitude!=null?` (${Number(p.latitude).toFixed(5)}, ${Number(p.longitude).toFixed(5)})`:''}</small></div></div>
+    </div>
+    <div class="modalfoot" style="margin-top:15px"><button class="btn primary" onclick="$('modal').style.display='none'">Fechar</button></div>
+  `);
+};
+
+function tab(t){
+  document.querySelectorAll('[data-tab]').forEach(b=>b.classList.toggle('active',b.dataset.tab===t));
+  document.querySelectorAll('.page').forEach(p=>p.classList.toggle('active',p.id==='page-'+t));
+}
+document.querySelectorAll('[data-tab]').forEach(b=>b.addEventListener('click',()=>tab(b.dataset.tab)));
+
+function toast(s){$('toast').textContent=s;$('toast').classList.add('show');setTimeout(()=>$('toast').classList.remove('show'),2500)}
+function modal(html){$('modalContent').innerHTML=html;$('modal').style.display='flex'}
+$('modal').addEventListener('click',e=>{if(e.target===$('modal')&&authenticated)$('modal').style.display='none'});
+
+function openLoginModal(){
+  modal(`
+    <h3>Entrar no Painel do Colaborador</h3>
+    <p>Informe seu e-mail ou CPF cadastrado no RH e sua senha de acesso.</p>
+    <label>E-mail ou CPF</label>
+    <input class="field" id="loginIdentifier" placeholder="seu@email.com ou 000.000.000-00" autocomplete="username">
+    <label>Senha</label>
+    <input class="field" id="loginPassword" type="password" placeholder="Sua senha de acesso" autocomplete="current-password">
+    <div class="modalfoot"><button class="btn primary" id="loginSubmit">Entrar</button></div>
+  `);
+  setTimeout(()=>$('loginIdentifier')?.focus(),50);
+}
+
+async function doLogin(){
+  const identifier=$('loginIdentifier')?.value.trim()||'';
+  const password=$('loginPassword')?.value||'';
+  if(!identifier||!password){toast('Informe e-mail/CPF e senha.');return}
+  try{
+    const res=await fetch('/api/colaborador/login',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({identifier,password})
+    });
+    const data=await res.json().catch(()=>({}));
+    if(!res.ok){toast(data.error||'Não foi possível entrar.');return}
+    authenticated=true;
+    $('modal').style.display='none';
+    await loadAll();
+    toast('Sessão iniciada com sucesso.');
+  }catch{
+    toast('Erro ao conectar com o servidor.');
+  }
+}
+
+async function loadAll(){
+  const data=await apiFetch('/api/colaborador/me');
+  authenticated=true;
+  currentUser=data.user;
+  profile=data.colaborador;
+  pontos=Array.isArray(data.pontos)?data.pontos:[];
+  schedules=Array.isArray(data.schedules)?data.schedules:[];
+  rotations=Array.isArray(data.rotations)?data.rotations:[];
+  documents=Array.isArray(data.documents)?data.documents:[];
+  tickets=Array.isArray(data.chamados)?data.chamados:[];
+  setProfile();
+  renderUpdates();
+  renderTickets();
+  renderPayments();
+}
+
+async function init(){
+  try{
+    const res=await fetch('/api/colaborador/status',{cache:'no-store'});
+    const s=await res.json();
+    if(s.authenticated){
+      await loadAll();
+    }else{
+      setProfile();
+      openLoginModal();
+    }
+  }catch{
+    toast('Servidor indisponível.');
+  }
+}
+
+$('profileBtn').onclick=()=>{
+  if(!authenticated){openLoginModal();return}
+  modal(`<h3>Configurações da conta</h3><p>Consulte os dados vinculados ao seu cadastro central no RH.</p><div class="list"><button class="action" id="editProfile"><span class="actionicon">♙</span><span><b>Meus dados cadastrais</b><small>Visualize suas informações oficiais do Klara Pessoas.</small></span><span class="arrow">›</span></button><button class="action" id="logout"><span class="actionicon">↪</span><span><b>Sair</b><small>Encerrar a sessão neste dispositivo.</small></span><span class="arrow">›</span></button></div><div class="modalfoot" style="margin-top:15px"><button class="btn" onclick="$('modal').style.display='none'">Fechar</button></div>`);
+};
+
+document.addEventListener('click',async e=>{
+  if(e.target.id==='loginSubmit'){await doLogin();return}
+  if(e.target.id==='editProfile'){
+    const p=profile||{name:currentUser?.name,email:currentUser?.email};
+    $('modalContent').innerHTML=`<h3>Meu perfil</h3><p>Dados oficiais administrados centralmente pelo RH no Klara Pessoas.</p>
+    <div class="list">
+      <div class="rowitem"><div class="rowtext"><b>Nome completo</b><small>${escapeHtml(p.name||'—')}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>CPF</b><small>${escapeHtml(p.cpf||'—')}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>Matrícula</b><small>${escapeHtml(p.registration||'—')}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>E-mail</b><small>${escapeHtml(p.email||'—')}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>Cargo / Departamento</b><small>${escapeHtml(p.role||'—')} · ${escapeHtml(p.department||'—')}</small></div></div>
+      <div class="rowitem"><div class="rowtext"><b>Escala</b><small>${escapeHtml(p.scale||'—')}</small></div></div>
+    </div>
+    <div class="modalfoot" style="margin-top:15px"><button class="btn primary" onclick="$('modal').style.display='none'">Fechar</button></div>`;
+  }
+  if(e.target.id==='logout'){
+    await fetch('/api/colaborador/logout',{method:'POST'});
+    authenticated=false;currentUser=null;profile=null;pontos=[];documents=[];tickets=[];
+    setProfile();renderUpdates();renderTickets();renderPayments();
+    openLoginModal();
+    toast('Sessão encerrada.');
+  }
+  if(e.target.id==='saveTicket'){
+    const subject=$('tSubject').value.trim(),description=$('tDesc').value.trim(),department=$('tDept').value;
+    if(!subject||!description){toast('Preencha o assunto e a descrição.');return}
+    try{
+      const res=await apiFetch('/api/colaborador/chamados',{method:'POST',body:JSON.stringify({department,subject,description})});
+      tickets.unshift(res.chamado);
+      renderTickets();setProfile();
+      $('modal').style.display='none';
+      toast('Chamado registrado no sistema central.');
+    }catch(err){toast(err.message)}
+  }
+});
+
+document.addEventListener('keydown',e=>{
+  if(e.key==='Enter'&&!authenticated&&$('loginPassword')){doLogin()}
+});
+
+function renderTickets(){
+  const open=tickets.filter(t=>t.status==='Aberto').length,prog=tickets.filter(t=>t.status==='Em atendimento').length,closed=tickets.filter(t=>t.status==='Encerrado').length;
+  $('openCount').textContent=open;$('progressCount').textContent=prog;$('closedCount').textContent=closed;
+  if(!tickets.length){$('tickets').className='empty';$('tickets').innerHTML='<b>Você ainda não abriu chamados</b>Use “Novo chamado” para enviar uma solicitação.';return}
+  $('tickets').className='list';
+  $('tickets').innerHTML=tickets.map(t=>`<div class="rowitem"><div class="rowicon">▧</div><div class="rowtext"><b>${escapeHtml(t.subject)}</b><small>${escapeHtml(t.department)} · ${new Date(t.created_at).toLocaleDateString('pt-BR')} · ${escapeHtml(t.description)}</small></div><span class="badge" style="background:${t.status==='Encerrado'?'var(--tealsoft)':'var(--ambersoft)'};color:${t.status==='Encerrado'?'var(--teal)':'var(--amber)'}">${escapeHtml(t.status)}</span></div>`).join('');
+}
+
+$('newTicket').onclick=()=>{
+  if(!authenticated){openLoginModal();return}
+  modal(`<h3>Abrir chamado</h3><p>Descreva sua solicitação para envio direto ao departamento responsável.</p><label>Departamento responsável</label><select class="field" id="tDept"><option>RH</option><option>Financeiro</option><option>Departamento Pessoal</option><option>TI / Acesso</option></select><label>Assunto</label><input class="field" id="tSubject" placeholder="Ex.: Dúvida sobre espelho de ponto"><label>Descrição</label><textarea class="field" id="tDesc" rows="4" placeholder="Explique o que precisa..."></textarea><div class="modalfoot"><button class="btn" onclick="$('modal').style.display='none'">Cancelar</button><button class="btn primary" id="saveTicket">Enviar chamado</button></div>`);
+};
+
+document.querySelectorAll('[data-action]').forEach(b=>b.addEventListener('click',async()=>{
+  if(!authenticated){openLoginModal();return}
+  const a=b.dataset.action;
+  if(a==='records'){
+    try{
+      const d=await apiFetch('/api/colaborador/pontos');
+      pontos=d.pontos||[];
+      renderUpdates();setProfile();
+      const body=pontos.length
+        ? `<div class="tablewrap"><table><thead><tr><th>Data</th><th>Hora</th><th>Marcação</th><th>Protocolo</th><th>Local</th><th></th></tr></thead><tbody>${pontos.map(p=>`<tr><td>${fmtDateBr(p.work_date)}</td><td>${escapeHtml(p.hora)}</td><td>${escapeHtml(p.label||p.punch_type)}</td><td>${escapeHtml(p.protocolo)}</td><td>${escapeHtml(p.location_status||'—')}</td><td><button class="btn soft" onclick="viewReceipt('${escapeHtml(p.id)}')">Ver</button></td></tr>`).join('')}</tbody></table></div>`
+        : '<div class="empty"><b>Nenhuma marcação registrada</b>Os pontos batidos no Klara Apontamento aparecerão aqui em tempo real.</div>';
+      modal(`<h3>Pontos registrados</h3><p>Histórico sincronizado em tempo real com o Klara Apontamento.</p>${body}<div class="modalfoot" style="margin-top:15px"><button class="btn primary" onclick="$('modal').style.display='none'">Fechar</button></div>`);
+    }catch(err){toast(err.message)}
+    return;
+  }
+  if(a==='schedule'){
+    const weekNames=['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado'];
+    const items=[
+      ...schedules.map(s=>`<div class="rowitem"><div class="rowtext"><b>${weekNames[s.weekday]||'Dia'}</b><small>${escapeHtml(s.start_time||'—')} às ${escapeHtml(s.end_time||'—')}${s.break_start?` (Intervalo ${escapeHtml(s.break_start)}–${escapeHtml(s.break_end)})`:''}</small></div></div>`),
+      ...rotations.map(r=>`<div class="rowitem"><div class="rowtext"><b>Escala em ciclo ${r.work_days}x${r.cycle_length_days-r.work_days}</b><small>Início ${fmtDateBr(r.cycle_start)} · ${Math.round(r.expected_minutes/60)}h por dia trabalhado</small></div></div>`)
+    ];
+    modal(`<h3>Horários de trabalho</h3><p>Jornada oficial configurada no Klara Pessoas.</p>${items.length?`<div class="list">${items.join('')}</div>`:'<div class="empty"><b>Nenhuma escala específica configurada</b>Consulte o RH para detalhamento de jornada.</div>'}<div class="modalfoot" style="margin-top:15px"><button class="btn primary" onclick="$('modal').style.display='none'">Fechar</button></div>`);
+    return;
+  }
+  const labels={pending:'Folhas pendentes',signed:'Folhas assinadas / Comprovantes'};
+  if(a==='signed'){
+    const body=pontos.length
+      ? `<div class="list">${pontos.slice(0,10).map(p=>`<div class="rowitem"><div class="rowtext"><b>Comprovante ${escapeHtml(p.protocolo)}</b><small>${fmtDateBr(p.work_date)} às ${escapeHtml(p.hora)} · ${escapeHtml(p.label||p.punch_type)}</small></div><button class="btn soft" onclick="viewReceipt('${escapeHtml(p.id)}')">Abrir</button></div>`).join('')}</div>`
+      : '<div class="empty"><b>Nenhum comprovante disponível</b>Os comprovantes de marcação aparecerão aqui.</div>';
+    modal(`<h3>${labels[a]}</h3><p>Comprovantes emitidos nas marcações de ponto.</p>${body}<div class="modalfoot" style="margin-top:15px"><button class="btn primary" onclick="$('modal').style.display='none'">Fechar</button></div>`);
+    return;
+  }
+  modal(`<h3>${labels[a]}</h3><p>Folhas de ponto aguardando ciência do colaborador.</p><div class="empty"><b>Nenhuma folha pendente no momento</b>Todas as pendências enviadas pelo RH aparecerão aqui.</div><div class="modalfoot" style="margin-top:15px"><button class="btn primary" onclick="$('modal').style.display='none'">Entendi</button></div>`);
+}));
+
+$('payType').onchange=renderPayments;
+$('payYear').onchange=renderPayments;
+function renderPayments(){
+  const type=$('payType').value,year=$('payYear').value;
+  const filtered=documents.filter(d=>{
+    const matchType=type==='todos'||String(d.category||'').toLowerCase().includes(type.toLowerCase());
+    const matchYear=!year||String(d.created_at||'').startsWith(year);
+    return matchType&&matchYear;
+  });
+  if(!filtered.length){
+    $('payments').className='empty';
+    $('payments').innerHTML='<b>Nenhum documento disponibilizado</b>Os comprovantes aparecerão aqui quando forem publicados pelo RH/Financeiro.';
+    return;
+  }
+  $('payments').className='list';
+  $('payments').innerHTML=filtered.map(d=>`<div class="rowitem"><div class="rowicon">▤</div><div class="rowtext"><b>${escapeHtml(d.original_name)}</b><small>${escapeHtml(d.category||'Documento')} · ${(d.size_bytes/1024).toFixed(1)} KB · ${new Date(d.created_at).toLocaleDateString('pt-BR')}</small></div><a class="btn soft" href="/api/colaborador/documents/${encodeURIComponent(d.id)}/download" target="_blank">Baixar</a></div>`).join('');
+}
+
+init();
+</script><script src="/assets/pwa-install.js" defer></script></body></html>

@@ -1,0 +1,24 @@
+# Dependências Node
+node_modules/
+
+# Variáveis de ambiente locais
+.env
+.env.local
+.env.*.local
+
+# Banco de dados SQLite local e arquivos WAL/SHM
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Dados e uploads locais temporários
+dados/
+*.log
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

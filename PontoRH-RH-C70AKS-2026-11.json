@@ -1,0 +1,9534 @@
+{
+  "comp": "2026-11",
+  "employees": [
+    {
+      "nacionalidade": "Brasileira",
+      "naturalidade": "Rio de Janeiro",
+      "estadoCivil": "Casado",
+      "rg": "24.819.102-4",
+      "cnh": "05199435710",
+      "cnhCat": "B",
+      "email": "",
+      "endereco": "Estrada Portela",
+      "numero": "460",
+      "complemento": "Fundos",
+      "bairro": "Turiaçu",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "21351-246",
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "06:30",
+      "horaSaida": "16:18",
+      "banco": "Itaú Unibanco S.A",
+      "emergNome": "Cíntia",
+      "emergParentesco": "Esposa",
+      "emergTel": "21 964807723",
+      "id": 1,
+      "n": "Alessandro da Silva Brito",
+      "regime": "MEI",
+      "cnpjMei": "",
+      "pix": "10051971720",
+      "s": "Administrativo",
+      "c": "Comprador",
+      "ad": "2026-06-18",
+      "sal": 3000,
+      "fatorHe": 1,
+      "ajudaCusto": 0,
+      "acumAnual": 0,
+      "cpf": "10051971720",
+      "nasc": "1995-05-10",
+      "tel": "21964966274",
+      "dep": 1,
+      "vt": 0,
+      "status": "Ativo",
+      "docs": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "nacionalidade": "Brasileira",
+      "naturalidade": "Rio de Janeiro",
+      "estadoCivil": "Solteira",
+      "rg": "28.582.300-1",
+      "cnh": "",
+      "cnhCat": "",
+      "email": "dandarafalcao773@gmail.com",
+      "endereco": "Rua José Maria",
+      "numero": "232",
+      "complemento": "Casa",
+      "bairro": "Penha",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "21070-140",
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "07:30",
+      "horaSaida": "17:18",
+      "banco": "Inter",
+      "emergNome": "Felipe",
+      "emergParentesco": "Esposo",
+      "emergTel": "(21) 97704-6445",
+      "id": 2,
+      "n": "Dandara Claudiane de Araujo Falcão",
+      "regime": "MEI",
+      "cnpjMei": "70.058.766/0001-02",
+      "pix": "21980618738",
+      "s": "Financeiro / RH",
+      "c": "Auxiliar Financeiro",
+      "ad": "2026-11-16",
+      "sal": 1800,
+      "fatorHe": 1,
+      "ajudaCusto": 210,
+      "acumAnual": 47300,
+      "cpf": "15794100737",
+      "nasc": "1989-11-27",
+      "tel": "21980618738",
+      "dep": 2,
+      "vt": 0,
+      "status": "Ativo",
+      "docs": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "nacionalidade": "Brasileira",
+      "naturalidade": "Rio de Janeiro",
+      "estadoCivil": "Solteiro",
+      "rg": "0663657707",
+      "cnh": "09061801701",
+      "cnhCat": "B",
+      "email": "davim4600@gmail.com",
+      "endereco": "Rua Maria andrade",
+      "numero": "30",
+      "complemento": "",
+      "bairro": "Duque de Caxias",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "25045-320",
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "06:30",
+      "horaSaida": "16:18",
+      "banco": "Nubank",
+      "emergNome": "Lucia",
+      "emergParentesco": "Mãe",
+      "emergTel": "(21) 97884-3686",
+      "id": 4,
+      "n": "Davi Moraes Vieira da Silva",
+      "regime": "MEI",
+      "cnpjMei": "",
+      "pix": "06673657707",
+      "s": "Operações / Logística",
+      "c": "Ajudante",
+      "ad": "2026-01-17",
+      "sal": 1621,
+      "fatorHe": 1.5,
+      "ajudaCusto": 0,
+      "acumAnual": 0,
+      "cpf": "066.736.577-07",
+      "nasc": "2007-01-06",
+      "tel": "(21) 96677-3407",
+      "dep": 1,
+      "vt": 0,
+      "status": "Ativo",
+      "docs": [
+        true,
+        true,
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "nacionalidade": "Brasileira",
+      "naturalidade": "Rio de Janeiro",
+      "estadoCivil": "Solteiro",
+      "rg": "061164190",
+      "cnh": "",
+      "cnhCat": "",
+      "email": "",
+      "endereco": "Av. vicente de carvalho",
+      "numero": "1086",
+      "complemento": "Rua F Bloco D apt 402",
+      "bairro": "Vila Kosmos",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "21210-024",
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "06:30",
+      "horaSaida": "16:18",
+      "banco": "Itau",
+      "emergNome": "Andreia e Gloria",
+      "emergParentesco": "Irmãs",
+      "emergTel": "2199128-2714 / 21 97086-8942",
+      "id": 5,
+      "n": "João Carlos Carvalho Motta",
+      "regime": "MEI",
+      "cnpjMei": "",
+      "pix": "71932895787",
+      "s": "Operações / Logística",
+      "c": "Torneiro Mecânico",
+      "ad": "2026-06-01",
+      "sal": 3200,
+      "fatorHe": 1,
+      "ajudaCusto": 0,
+      "acumAnual": 31900,
+      "cpf": "71932895787",
+      "nasc": "1962-03-08",
+      "tel": "21 99333-5997",
+      "dep": 2,
+      "vt": 0,
+      "status": "Ativo",
+      "docs": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "nacionalidade": "Brasileira",
+      "naturalidade": "Rio de Janeiro",
+      "estadoCivil": "Divorciado",
+      "rg": "239817505",
+      "cnh": "05556405400",
+      "cnhCat": "AB",
+      "email": "",
+      "endereco": "Rua Maria Andrade",
+      "numero": "30",
+      "complemento": "Casa",
+      "bairro": "Jardim Vila nova",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "25045320",
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "06:30",
+      "horaSaida": "16:18",
+      "banco": "Nubank",
+      "emergNome": "Renata",
+      "emergParentesco": "Esposa",
+      "emergTel": "2198565565",
+      "id": 6,
+      "n": "Jose Carlos Moraes Vieira da Silva",
+      "regime": "MEI",
+      "cnpjMei": "",
+      "pix": "21987440371",
+      "s": "Operações / Logística",
+      "c": "Técnico de Mecânica",
+      "ad": "2025-10-10",
+      "sal": 3400,
+      "fatorHe": 1,
+      "ajudaCusto": 0,
+      "acumAnual": 27500,
+      "cpf": "13013863757",
+      "nasc": "1990-01-21",
+      "tel": "(21) 987440371",
+      "dep": 0,
+      "vt": 0,
+      "status": "Ativo",
+      "docs": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "nacionalidade": "Brasileira",
+      "naturalidade": "Rio de Janeiro",
+      "estadoCivil": "Solteiro",
+      "rg": "297996829",
+      "cnh": "07994547207",
+      "cnhCat": "AD",
+      "email": "",
+      "endereco": "Estrada do Amapa",
+      "numero": "458",
+      "complemento": "",
+      "bairro": "Amapa",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "25235475",
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "06:30",
+      "horaSaida": "16:18",
+      "banco": "Mercado Pago",
+      "emergNome": "Conceição",
+      "emergParentesco": "Mãe",
+      "emergTel": "(21) 971763080",
+      "id": 7,
+      "n": "Lorran Gonçalves de Andrade",
+      "regime": "MEI",
+      "cnpjMei": "",
+      "pix": "21995572252",
+      "s": "Comercial",
+      "c": "Ajudante",
+      "ad": "2026-09-02",
+      "sal": 3000,
+      "fatorHe": 1,
+      "ajudaCusto": 250,
+      "acumAnual": 38500,
+      "cpf": "16949583702",
+      "nasc": "1999-02-12",
+      "tel": "(21) 98758-3877",
+      "dep": 1,
+      "vt": 0,
+      "status": "Ativo",
+      "docs": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "nacionalidade": "Brasileira",
+      "naturalidade": "São João de Meriti",
+      "estadoCivil": "Solteiro",
+      "rg": "127014744",
+      "cnh": "05443628219",
+      "cnhCat": "B",
+      "email": "",
+      "endereco": "Rua Pres Bernardes",
+      "numero": "10",
+      "complemento": "",
+      "bairro": "Belford roxo",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "cep": "26183-640",
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "06:30",
+      "horaSaida": "16:18",
+      "banco": "Mercado Pago",
+      "emergNome": "Gabrielle",
+      "emergParentesco": "Esposa",
+      "emergTel": "21985840226",
+      "id": 8,
+      "n": "Miguel Cardoso Rigolan",
+      "regime": "MEI",
+      "cnpjMei": "",
+      "pix": "21965475473",
+      "s": "Logística /  Operação",
+      "c": "Fresador",
+      "ad": "2026-06-24",
+      "sal": 3400,
+      "fatorHe": 1,
+      "ajudaCusto": 0,
+      "acumAnual": 0,
+      "cpf": "10159357705",
+      "nasc": "1983-06-13",
+      "tel": "(21) 96547-5473",
+      "dep": 0,
+      "vt": 0,
+      "status": "Ativo",
+      "docs": [
+        true,
+        true,
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "id": 9,
+      "n": "Sergio Trajado da silva",
+      "nasc": "1960-03-06",
+      "estadoCivil": "Casado",
+      "nacionalidade": "Brasileira",
+      "naturalidade": "Fortaleza/CE",
+      "cpf": "74040464753",
+      "rg": "",
+      "cnh": "",
+      "cnhCat": "",
+      "tel": "2198027-3662",
+      "email": "",
+      "endereco": "Rua Quintanilha",
+      "numero": "246",
+      "complemento": "",
+      "bairro": "Freguesia",
+      "cep": "22763-007",
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "regime": "MEI",
+      "status": "Ativo",
+      "c": "Torneiro Mecânico",
+      "s": "Operação/Logística",
+      "ad": "2026-04-01",
+      "sal": 3400,
+      "jornada": "44h semanais (Seg a Sex)",
+      "horaEntrada": "06:30",
+      "horaSaida": "16:18",
+      "cnpjMei": "",
+      "fatorHe": 1,
+      "ajudaCusto": 0,
+      "acumAnual": 0,
+      "dep": 0,
+      "vt": 1,
+      "banco": "Nubank",
+      "pix": "74040464753",
+      "emergNome": "Cassio",
+      "emergParentesco": "Filho",
+      "emergTel": "21980408300",
+      "docs": [
+        true,
+        true,
+        false,
+        true,
+        true
+      ]
+    }
+  ],
+  "points": {
+    "2026-09": {
+      "1": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            475,
+            725,
+            792,
+            1011
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            490,
+            723,
+            787,
+            1011
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            486,
+            717,
+            781,
+            1055
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            478,
+            723,
+            789,
+            1039
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            488,
+            721,
+            784,
+            1048
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            723,
+            790,
+            1057
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            478,
+            718,
+            778,
+            1022
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            484,
+            724,
+            791,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            483,
+            725,
+            785,
+            1010
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            479,
+            721,
+            787,
+            1014
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            487,
+            718,
+            784,
+            1055
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            480,
+            720,
+            781,
+            1051
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            475,
+            718,
+            779,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            490,
+            723,
+            784,
+            1047
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            482,
+            721,
+            786,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            481,
+            717,
+            781,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            484,
+            717,
+            778,
+            1044
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            490,
+            719,
+            783,
+            1026
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            491,
+            723,
+            787,
+            1028
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            484,
+            725,
+            792,
+            1050
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            489,
+            724,
+            788,
+            1025
+          ],
+          "t": "Normal"
+        }
+      ],
+      "2": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            475,
+            720,
+            781,
+            1017
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            488,
+            723,
+            789,
+            1046
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            481,
+            722,
+            785,
+            1044
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            487,
+            720,
+            782,
+            1018
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            486,
+            721,
+            788,
+            1050
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            483,
+            722,
+            788,
+            1027
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            485,
+            725,
+            789,
+            1041
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            725,
+            792,
+            1055
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            724,
+            785,
+            1012
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            479,
+            723,
+            783,
+            1036
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            484,
+            726,
+            786,
+            1033
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            492,
+            723,
+            784,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            489,
+            718,
+            783,
+            1038
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            483,
+            724,
+            790,
+            1045
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            485,
+            724,
+            787,
+            1033
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            477,
+            720,
+            784,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            480,
+            722,
+            787,
+            1024
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            491,
+            722,
+            784,
+            1051
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            488,
+            726,
+            789,
+            1052
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            721,
+            781,
+            1056
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            488,
+            725,
+            786,
+            1037
+          ],
+          "t": "Normal"
+        }
+      ],
+      "3": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            475,
+            725,
+            788,
+            1022
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            487,
+            722,
+            790,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            475,
+            717,
+            779,
+            1032
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            717,
+            783,
+            1049
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            484,
+            721,
+            783,
+            1051
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            720,
+            785,
+            1050
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            491,
+            722,
+            789,
+            1061
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            490,
+            726,
+            793,
+            1016
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            479,
+            724,
+            785,
+            1013
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            480,
+            724,
+            787,
+            1059
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            482,
+            723,
+            786,
+            1011
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            486,
+            716,
+            777,
+            1030
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            487,
+            717,
+            777,
+            1023
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            476,
+            724,
+            787,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            488,
+            717,
+            777,
+            1022
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            490,
+            724,
+            787,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            717,
+            778,
+            1056
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            475,
+            725,
+            785,
+            1023
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            485,
+            719,
+            782,
+            1025
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            485,
+            717,
+            779,
+            1010
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            487,
+            717,
+            782,
+            1049
+          ],
+          "t": "Normal"
+        }
+      ],
+      "4": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            721,
+            785,
+            1027
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            722,
+            784,
+            1012
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            487,
+            721,
+            781,
+            1021
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            488,
+            724,
+            787,
+            1028
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            482,
+            720,
+            786,
+            1053
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            477,
+            719,
+            783,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            481,
+            718,
+            780,
+            1028
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            485,
+            717,
+            784,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            485,
+            723,
+            784,
+            1015
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            480,
+            725,
+            791,
+            1030
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            721,
+            786,
+            1042
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            481,
+            720,
+            781,
+            1045
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            484,
+            726,
+            789,
+            1059
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            487,
+            724,
+            785,
+            1042
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            491,
+            720,
+            786,
+            1012
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            717,
+            780,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            489,
+            721,
+            786,
+            1037
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            476,
+            717,
+            783,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            482,
+            722,
+            784,
+            1049
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            477,
+            723,
+            786,
+            1017
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            487,
+            719,
+            781,
+            1061
+          ],
+          "t": "Normal"
+        }
+      ],
+      "5": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            726,
+            792,
+            1032
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            484,
+            721,
+            785,
+            1047
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            482,
+            716,
+            783,
+            1061
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            721,
+            788,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            481,
+            720,
+            781,
+            1055
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            490,
+            717,
+            780,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            487,
+            725,
+            791,
+            1048
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            718,
+            785,
+            1041
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            491,
+            723,
+            785,
+            1016
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            480,
+            726,
+            787,
+            1053
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            477,
+            718,
+            786,
+            1020
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            475,
+            723,
+            784,
+            1060
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            482,
+            725,
+            792,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            480,
+            724,
+            790,
+            1040
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            478,
+            723,
+            787,
+            1053
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            482,
+            721,
+            783,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            485,
+            716,
+            777,
+            1017
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            477,
+            720,
+            784,
+            1020
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            479,
+            724,
+            786,
+            1021
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            486,
+            719,
+            783,
+            1023
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            720,
+            787,
+            1021
+          ],
+          "t": "Normal"
+        }
+      ],
+      "6": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            721,
+            789,
+            1038
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            483,
+            721,
+            787,
+            1030
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            721,
+            787,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            488,
+            719,
+            782,
+            1038
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            479,
+            720,
+            784,
+            1057
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            487,
+            726,
+            788,
+            1013
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            477,
+            722,
+            783,
+            1015
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            491,
+            719,
+            787,
+            1054
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            480,
+            722,
+            784,
+            1018
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            480,
+            717,
+            781,
+            1023
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            475,
+            726,
+            788,
+            1050
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            487,
+            716,
+            777,
+            1024
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            724,
+            786,
+            1027
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            491,
+            725,
+            788,
+            1038
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            481,
+            716,
+            777,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            478,
+            724,
+            786,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            482,
+            721,
+            786,
+            1049
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            723,
+            784,
+            1045
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            476,
+            717,
+            778,
+            1046
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            478,
+            725,
+            790,
+            1030
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            485,
+            722,
+            786,
+            1032
+          ],
+          "t": "Normal"
+        }
+      ],
+      "7": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            726,
+            788,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            482,
+            721,
+            789,
+            1013
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            488,
+            726,
+            791,
+            1038
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            726,
+            793,
+            1017
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            477,
+            720,
+            788,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            484,
+            724,
+            785,
+            1036
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            483,
+            718,
+            782,
+            1034
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            486,
+            719,
+            787,
+            1015
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            486,
+            722,
+            784,
+            1019
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            480,
+            718,
+            785,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            490,
+            723,
+            788,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            481,
+            720,
+            781,
+            1039
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            476,
+            724,
+            789,
+            1011
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            484,
+            725,
+            785,
+            1036
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            484,
+            719,
+            786,
+            1032
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            491,
+            717,
+            778,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            478,
+            726,
+            787,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            716,
+            783,
+            1017
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            491,
+            720,
+            781,
+            1018
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            487,
+            721,
+            787,
+            1036
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            484,
+            723,
+            784,
+            1044
+          ],
+          "t": "Normal"
+        }
+      ],
+      "8": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            721,
+            785,
+            1048
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            720,
+            782,
+            1048
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "p": [
+            482,
+            720,
+            784,
+            1026
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "p": [
+            489,
+            723,
+            786,
+            1048
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Independência)"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "p": [
+            492,
+            720,
+            783,
+            1061
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "p": [
+            481,
+            723,
+            791,
+            1058
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "p": [
+            490,
+            725,
+            793,
+            1054
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            720,
+            788,
+            1027
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "p": [
+            492,
+            721,
+            784,
+            1021
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "p": [
+            481,
+            719,
+            781,
+            1017
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "p": [
+            488,
+            720,
+            787,
+            1059
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            723,
+            785,
+            1055
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "p": [
+            491,
+            723,
+            784,
+            1047
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "p": [
+            478,
+            725,
+            790,
+            1035
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "p": [
+            487,
+            722,
+            787,
+            1022
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "p": [
+            487,
+            721,
+            782,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "p": [
+            491,
+            721,
+            786,
+            1062
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "p": [
+            481,
+            719,
+            784,
+            1041
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "p": [
+            488,
+            723,
+            783,
+            1042
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "p": [
+            479,
+            718,
+            786,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "p": [
+            483,
+            725,
+            791,
+            1056
+          ],
+          "t": "Normal"
+        }
+      ]
+    },
+    "2026-10": {
+      "1": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            475,
+            726,
+            788,
+            1023
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            486,
+            718,
+            782,
+            1014
+          ],
+          "t": "Normal",
+          "df": -16
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            484,
+            718,
+            780,
+            1059
+          ],
+          "t": "Normal",
+          "df": 33
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            485,
+            721,
+            781,
+            1033
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            487,
+            724,
+            789,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            475,
+            722,
+            783,
+            1052
+          ],
+          "t": "Normal",
+          "df": 36
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            482,
+            725,
+            787,
+            1047
+          ],
+          "t": "Normal",
+          "df": 23
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            487,
+            720,
+            783,
+            1028
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            478,
+            719,
+            783,
+            1029
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            483,
+            717,
+            778,
+            1037
+          ],
+          "t": "Normal",
+          "df": 13
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            483,
+            717,
+            778,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            483,
+            721,
+            789,
+            1060
+          ],
+          "t": "Normal",
+          "df": 29
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            725,
+            786,
+            1049
+          ],
+          "t": "Normal",
+          "df": 32
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            478,
+            726,
+            794,
+            1015
+          ],
+          "t": "Normal",
+          "df": -11
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            491,
+            720,
+            782,
+            1060
+          ],
+          "t": "Normal",
+          "df": 27
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            488,
+            719,
+            780,
+            1060
+          ],
+          "t": "Normal",
+          "df": 31
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            478,
+            726,
+            791,
+            1062
+          ],
+          "t": "Normal",
+          "df": 39
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            482,
+            717,
+            777,
+            1025
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            478,
+            718,
+            781,
+            1023
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            488,
+            723,
+            791,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            483,
+            719,
+            782,
+            1053
+          ],
+          "t": "Normal",
+          "df": 27
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        }
+      ],
+      "2": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            475,
+            721,
+            785,
+            1028
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            485,
+            717,
+            783,
+            1049
+          ],
+          "t": "Normal",
+          "df": 18
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            479,
+            723,
+            784,
+            1047
+          ],
+          "t": "Normal",
+          "df": 27
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            477,
+            718,
+            782,
+            1012
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            485,
+            724,
+            785,
+            1041
+          ],
+          "t": "Normal",
+          "df": 15
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            489,
+            720,
+            788,
+            1022
+          ],
+          "t": "Normal",
+          "df": -15
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            489,
+            721,
+            786,
+            1014
+          ],
+          "t": "Normal",
+          "df": -20
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            482,
+            721,
+            784,
+            1041
+          ],
+          "t": "Normal",
+          "df": 16
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            484,
+            719,
+            783,
+            1030
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            484,
+            718,
+            782,
+            1060
+          ],
+          "t": "Normal",
+          "df": 32
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            724,
+            787,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            477,
+            724,
+            792,
+            1024
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            490,
+            724,
+            789,
+            1033
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            488,
+            716,
+            781,
+            1013
+          ],
+          "t": "Normal",
+          "df": -20
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            477,
+            723,
+            790,
+            1050
+          ],
+          "t": "Normal",
+          "df": 26
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            484,
+            722,
+            782,
+            1060
+          ],
+          "t": "Normal",
+          "df": 36
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            491,
+            721,
+            782,
+            1042
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            483,
+            720,
+            786,
+            1050
+          ],
+          "t": "Normal",
+          "df": 21
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            492,
+            721,
+            783,
+            1048
+          ],
+          "t": "Normal",
+          "df": 14
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            480,
+            719,
+            780,
+            1022
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            482,
+            720,
+            788,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        }
+      ],
+      "3": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            475,
+            716,
+            782,
+            1033
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            483,
+            717,
+            777,
+            1032
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            491,
+            718,
+            786,
+            1036
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            486,
+            725,
+            785,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            483,
+            724,
+            788,
+            1043
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            486,
+            719,
+            786,
+            1044
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            478,
+            718,
+            778,
+            1033
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)"
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            722,
+            785,
+            1053
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            490,
+            718,
+            782,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            484,
+            719,
+            786,
+            1031
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            478,
+            721,
+            787,
+            null
+          ],
+          "t": "Pendente"
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            717,
+            785,
+            1039
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            488,
+            723,
+            783,
+            1017
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            482,
+            716,
+            778,
+            1011
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            480,
+            726,
+            791,
+            1039
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            725,
+            793,
+            1060
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga"
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            487,
+            725,
+            790,
+            1022
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            484,
+            723,
+            787,
+            1022
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            489,
+            724,
+            786,
+            1020
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            489,
+            725,
+            787,
+            1029
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            482,
+            722,
+            787,
+            1024
+          ],
+          "t": "Normal"
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga"
+        }
+      ],
+      "4": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            721,
+            789,
+            1039
+          ],
+          "t": "Normal",
+          "df": 15
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            482,
+            716,
+            778,
+            1015
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            485,
+            723,
+            790,
+            1024
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            478,
+            722,
+            787,
+            1022
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            482,
+            723,
+            791,
+            1045
+          ],
+          "t": "Normal",
+          "df": 15
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            482,
+            717,
+            783,
+            1015
+          ],
+          "t": "Normal",
+          "df": -13
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            485,
+            725,
+            789,
+            1053
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            488,
+            723,
+            786,
+            1014
+          ],
+          "t": "Normal",
+          "df": -17
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            479,
+            718,
+            783,
+            1033
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            484,
+            720,
+            782,
+            1053
+          ],
+          "t": "Normal",
+          "df": 27
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            476,
+            719,
+            779,
+            1017
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            483,
+            721,
+            789,
+            1055
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            485,
+            722,
+            785,
+            1053
+          ],
+          "t": "Normal",
+          "df": 25
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            475,
+            717,
+            784,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            483,
+            719,
+            782,
+            1029
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            476,
+            719,
+            786,
+            1060
+          ],
+          "t": "Normal",
+          "df": 37
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            483,
+            720,
+            781,
+            1054
+          ],
+          "t": "Normal",
+          "df": 30
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            485,
+            726,
+            788,
+            1047
+          ],
+          "t": "Normal",
+          "df": 20
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            716,
+            777,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            481,
+            721,
+            784,
+            1035
+          ],
+          "t": "Normal",
+          "df": 11
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            481,
+            724,
+            786,
+            1036
+          ],
+          "t": "Normal",
+          "df": 13
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        }
+      ],
+      "5": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            716,
+            778,
+            1044
+          ],
+          "t": "Normal",
+          "df": 26
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            481,
+            716,
+            780,
+            1050
+          ],
+          "t": "Normal",
+          "df": 25
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            480,
+            717,
+            782,
+            1013
+          ],
+          "t": "Normal",
+          "df": -12
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            487,
+            719,
+            780,
+            1053
+          ],
+          "t": "Normal",
+          "df": 25
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            723,
+            786,
+            1047
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            479,
+            726,
+            791,
+            1037
+          ],
+          "t": "Normal",
+          "df": 13
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            491,
+            721,
+            788,
+            1020
+          ],
+          "t": "Normal",
+          "df": -18
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            483,
+            724,
+            787,
+            1027
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            485,
+            717,
+            782,
+            1035
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            484,
+            722,
+            786,
+            1024
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            490,
+            716,
+            779,
+            1047
+          ],
+          "t": "Normal",
+          "df": 14
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            478,
+            724,
+            792,
+            1018
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            482,
+            722,
+            789,
+            1037
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            717,
+            781,
+            1060
+          ],
+          "t": "Normal",
+          "df": 30
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            487,
+            722,
+            782,
+            1018
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            489,
+            722,
+            789,
+            1060
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            480,
+            725,
+            790,
+            1035
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            486,
+            719,
+            787,
+            1019
+          ],
+          "t": "Normal",
+          "df": -15
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            483,
+            719,
+            780,
+            1017
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            490,
+            717,
+            782,
+            1041
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            725,
+            791,
+            1048
+          ],
+          "t": "Normal",
+          "df": 22
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        }
+      ],
+      "6": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            722,
+            785,
+            1049
+          ],
+          "t": "Normal",
+          "df": 30
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            726,
+            792,
+            1033
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            491,
+            722,
+            786,
+            1053
+          ],
+          "t": "Normal",
+          "df": 18
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            478,
+            717,
+            782,
+            1032
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            478,
+            723,
+            790,
+            1049
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            724,
+            788,
+            1060
+          ],
+          "t": "Normal",
+          "df": 40
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            481,
+            718,
+            780,
+            1040
+          ],
+          "t": "Normal",
+          "df": 17
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            477,
+            725,
+            788,
+            1039
+          ],
+          "t": "Normal",
+          "df": 19
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            491,
+            717,
+            782,
+            1036
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            485,
+            723,
+            790,
+            1047
+          ],
+          "t": "Normal",
+          "df": 15
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            488,
+            724,
+            789,
+            1026
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            717,
+            777,
+            1034
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            480,
+            721,
+            783,
+            1021
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            479,
+            717,
+            778,
+            1058
+          ],
+          "t": "Normal",
+          "df": 38
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            490,
+            725,
+            791,
+            1060
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            485,
+            726,
+            792,
+            1060
+          ],
+          "t": "Normal",
+          "df": 29
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            476,
+            720,
+            781,
+            1015
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            487,
+            721,
+            786,
+            1044
+          ],
+          "t": "Normal",
+          "df": 12
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            722,
+            782,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            482,
+            723,
+            789,
+            1048
+          ],
+          "t": "Normal",
+          "df": 20
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            717,
+            780,
+            1060
+          ],
+          "t": "Normal",
+          "df": 38
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        }
+      ],
+      "7": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            717,
+            782,
+            1054
+          ],
+          "t": "Normal",
+          "df": 33
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            478,
+            725,
+            785,
+            1016
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            486,
+            717,
+            780,
+            1041
+          ],
+          "t": "Normal",
+          "df": 12
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            487,
+            724,
+            785,
+            1011
+          ],
+          "t": "Normal",
+          "df": -17
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            476,
+            723,
+            785,
+            1051
+          ],
+          "t": "Normal",
+          "df": 33
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            490,
+            723,
+            786,
+            1030
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            487,
+            725,
+            791,
+            1059
+          ],
+          "t": "Normal",
+          "df": 26
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            489,
+            726,
+            789,
+            1052
+          ],
+          "t": "Normal",
+          "df": 20
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            716,
+            782,
+            1038
+          ],
+          "t": "Normal",
+          "df": 12
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            485,
+            724,
+            786,
+            1018
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            486,
+            721,
+            789,
+            1056
+          ],
+          "t": "Normal",
+          "df": 22
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            484,
+            720,
+            780,
+            1049
+          ],
+          "t": "Normal",
+          "df": 25
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            477,
+            720,
+            785,
+            1058
+          ],
+          "t": "Normal",
+          "df": 36
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            490,
+            717,
+            784,
+            1056
+          ],
+          "t": "Normal",
+          "df": 19
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            718,
+            782,
+            1050
+          ],
+          "t": "Normal",
+          "df": 30
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            481,
+            719,
+            785,
+            1060
+          ],
+          "t": "Normal",
+          "df": 33
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            725,
+            790,
+            1047
+          ],
+          "t": "Normal",
+          "df": 13
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            488,
+            724,
+            787,
+            1016
+          ],
+          "t": "Normal",
+          "df": -15
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            477,
+            725,
+            793,
+            1013
+          ],
+          "t": "Normal",
+          "df": -12
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            491,
+            719,
+            786,
+            1054
+          ],
+          "t": "Normal",
+          "df": 16
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            478,
+            718,
+            778,
+            1020
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        }
+      ],
+      "8": [
+        {
+          "d": 1,
+          "w": 4,
+          "obs": "",
+          "p": [
+            476,
+            722,
+            789,
+            1060
+          ],
+          "t": "Normal",
+          "df": 37
+        },
+        {
+          "d": 2,
+          "w": 5,
+          "obs": "",
+          "p": [
+            477,
+            725,
+            787,
+            1051
+          ],
+          "t": "Normal",
+          "df": 32
+        },
+        {
+          "d": 3,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 1,
+          "obs": "",
+          "p": [
+            480,
+            721,
+            783,
+            1030
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 6,
+          "w": 2,
+          "obs": "",
+          "p": [
+            479,
+            721,
+            786,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 3,
+          "obs": "",
+          "p": [
+            491,
+            722,
+            787,
+            1053
+          ],
+          "t": "Normal",
+          "df": 17
+        },
+        {
+          "d": 8,
+          "w": 4,
+          "obs": "",
+          "p": [
+            486,
+            721,
+            783,
+            1053
+          ],
+          "t": "Normal",
+          "df": 25
+        },
+        {
+          "d": 9,
+          "w": 5,
+          "obs": "",
+          "p": [
+            477,
+            721,
+            782,
+            1026
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 10,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (N. Sra. Aparecida)",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 2,
+          "obs": "",
+          "p": [
+            483,
+            716,
+            779,
+            1013
+          ],
+          "t": "Normal",
+          "df": -13
+        },
+        {
+          "d": 14,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            726,
+            792,
+            1039
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 4,
+          "obs": "",
+          "p": [
+            485,
+            725,
+            790,
+            1040
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 5,
+          "obs": "",
+          "p": [
+            484,
+            719,
+            781,
+            1034
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 1,
+          "obs": "",
+          "p": [
+            478,
+            724,
+            784,
+            1012
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 2,
+          "obs": "",
+          "p": [
+            492,
+            719,
+            780,
+            1042
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 3,
+          "obs": "",
+          "p": [
+            483,
+            718,
+            782,
+            1054
+          ],
+          "t": "Normal",
+          "df": 27
+        },
+        {
+          "d": 22,
+          "w": 4,
+          "obs": "",
+          "p": [
+            479,
+            721,
+            782,
+            1039
+          ],
+          "t": "Normal",
+          "df": 19
+        },
+        {
+          "d": 23,
+          "w": 5,
+          "obs": "",
+          "p": [
+            477,
+            722,
+            787,
+            1060
+          ],
+          "t": "Normal",
+          "df": 38
+        },
+        {
+          "d": 24,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 1,
+          "obs": "",
+          "p": [
+            485,
+            719,
+            780,
+            1028
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 2,
+          "obs": "",
+          "p": [
+            490,
+            717,
+            778,
+            1041
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 3,
+          "obs": "",
+          "p": [
+            492,
+            718,
+            785,
+            1038
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 4,
+          "obs": "",
+          "p": [
+            483,
+            725,
+            785,
+            1061
+          ],
+          "t": "Normal",
+          "df": 38
+        },
+        {
+          "d": 30,
+          "w": 5,
+          "obs": "",
+          "p": [
+            477,
+            720,
+            785,
+            1031
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 31,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        }
+      ]
+    },
+    "2026-11": {
+      "1": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            388,
+            720,
+            780,
+            859
+          ],
+          "t": "Normal",
+          "df": -69
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            482,
+            722,
+            787,
+            1017
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            483,
+            719,
+            779,
+            1011
+          ],
+          "t": "Normal",
+          "df": -12
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            476,
+            719,
+            781,
+            1027
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            486,
+            717,
+            784,
+            1031
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            481,
+            720,
+            783,
+            1046
+          ],
+          "t": "Normal",
+          "df": 22
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            486,
+            721,
+            784,
+            1019
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            490,
+            716,
+            782,
+            1014
+          ],
+          "t": "Normal",
+          "df": -22
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            489,
+            724,
+            791,
+            1047
+          ],
+          "t": "Normal",
+          "df": 11
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            488,
+            723,
+            787,
+            1061
+          ],
+          "t": "Normal",
+          "df": 29
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            478,
+            725,
+            789,
+            1057
+          ],
+          "t": "Normal",
+          "df": 35
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "2": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            475,
+            722,
+            789,
+            1039
+          ],
+          "t": "Normal",
+          "df": 17
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            481,
+            722,
+            789,
+            1052
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            477,
+            724,
+            791,
+            1051
+          ],
+          "t": "Normal",
+          "df": 27
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            484,
+            716,
+            782,
+            1058
+          ],
+          "t": "Normal",
+          "df": 28
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            484,
+            717,
+            780,
+            1033
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            478,
+            719,
+            781,
+            1017
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            475,
+            718,
+            784,
+            1039
+          ],
+          "t": "Normal",
+          "df": 18
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            485,
+            717,
+            783,
+            1026
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            478,
+            723,
+            790,
+            1049
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            488,
+            724,
+            791,
+            1032
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            722,
+            788,
+            1035
+          ],
+          "t": "Normal",
+          "df": 13
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "3": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            475,
+            717,
+            778,
+            1045
+          ],
+          "t": "Normal",
+          "df": 29
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            721,
+            782,
+            1035
+          ],
+          "t": "Normal",
+          "df": 14
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            489,
+            719,
+            785,
+            1040
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            476,
+            723,
+            785,
+            1037
+          ],
+          "t": "Normal",
+          "df": 19
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            483,
+            716,
+            782,
+            1035
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            491,
+            717,
+            778,
+            1039
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            482,
+            724,
+            785,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            479,
+            718,
+            784,
+            1039
+          ],
+          "t": "Normal",
+          "df": 14
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            484,
+            723,
+            791,
+            1050
+          ],
+          "t": "Normal",
+          "df": 18
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            488,
+            725,
+            787,
+            1054
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            491,
+            719,
+            780,
+            1014
+          ],
+          "t": "Normal",
+          "df": -18
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "4": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            722,
+            785,
+            1050
+          ],
+          "t": "Normal",
+          "df": 31
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            478,
+            721,
+            784,
+            1018
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            483,
+            724,
+            789,
+            1028
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            485,
+            720,
+            786,
+            1016
+          ],
+          "t": "Normal",
+          "df": -15
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            481,
+            716,
+            778,
+            1037
+          ],
+          "t": "Normal",
+          "df": 14
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            488,
+            726,
+            786,
+            1061
+          ],
+          "t": "Normal",
+          "df": 33
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            488,
+            721,
+            786,
+            1025
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            491,
+            719,
+            786,
+            1052
+          ],
+          "t": "Normal",
+          "df": 14
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            490,
+            722,
+            790,
+            1052
+          ],
+          "t": "Normal",
+          "df": 14
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            488,
+            716,
+            781,
+            1025
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            489,
+            717,
+            780,
+            1044
+          ],
+          "t": "Normal",
+          "df": 12
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "5": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            717,
+            782,
+            1055
+          ],
+          "t": "Normal",
+          "df": 34
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            477,
+            721,
+            786,
+            1053
+          ],
+          "t": "Normal",
+          "df": 31
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            478,
+            718,
+            781,
+            1016
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            477,
+            718,
+            781,
+            1047
+          ],
+          "t": "Normal",
+          "df": 27
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            479,
+            716,
+            781,
+            1039
+          ],
+          "t": "Normal",
+          "df": 15
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            485,
+            724,
+            791,
+            1032
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            478,
+            718,
+            786,
+            1045
+          ],
+          "t": "Normal",
+          "df": 19
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            486,
+            720,
+            787,
+            null
+          ],
+          "t": "Pendente",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            479,
+            722,
+            782,
+            1053
+          ],
+          "t": "Normal",
+          "df": 34
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            717,
+            785,
+            1048
+          ],
+          "t": "Normal",
+          "df": 11
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            486,
+            724,
+            790,
+            1022
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "6": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            722,
+            789,
+            1060
+          ],
+          "t": "Normal",
+          "df": 37
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            476,
+            720,
+            787,
+            1036
+          ],
+          "t": "Normal",
+          "df": 13
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            489,
+            723,
+            785,
+            1057
+          ],
+          "t": "Normal",
+          "df": 26
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            485,
+            725,
+            792,
+            1026
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            477,
+            726,
+            787,
+            1041
+          ],
+          "t": "Normal",
+          "df": 23
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            482,
+            723,
+            789,
+            1054
+          ],
+          "t": "Normal",
+          "df": 26
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            484,
+            724,
+            787,
+            1012
+          ],
+          "t": "Normal",
+          "df": -15
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            480,
+            721,
+            788,
+            1025
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            485,
+            721,
+            781,
+            1055
+          ],
+          "t": "Normal",
+          "df": 30
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            718,
+            781,
+            1019
+          ],
+          "t": "Normal",
+          "df": -13
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            484,
+            722,
+            782,
+            1053
+          ],
+          "t": "Normal",
+          "df": 29
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "7": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            718,
+            779,
+            1014
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            492,
+            720,
+            781,
+            1019
+          ],
+          "t": "Normal",
+          "df": -14
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            484,
+            718,
+            779,
+            1045
+          ],
+          "t": "Normal",
+          "df": 20
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            477,
+            722,
+            785,
+            1057
+          ],
+          "t": "Normal",
+          "df": 37
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            492,
+            726,
+            790,
+            1043
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            478,
+            721,
+            786,
+            1025
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            491,
+            721,
+            788,
+            1031
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            492,
+            722,
+            789,
+            1038
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            491,
+            721,
+            782,
+            1056
+          ],
+          "t": "Normal",
+          "df": 24
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            719,
+            785,
+            1041
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            482,
+            719,
+            781,
+            1031
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "8": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "p": [
+            476,
+            723,
+            785,
+            1019
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "p": [
+            490,
+            720,
+            783,
+            1054
+          ],
+          "t": "Normal",
+          "df": 21
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "p": [
+            479,
+            722,
+            790,
+            1034
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "p": [
+            486,
+            719,
+            786,
+            1036
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "p": [
+            490,
+            725,
+            793,
+            1045
+          ],
+          "t": "Normal",
+          "df": 0
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "p": [
+            475,
+            720,
+            784,
+            1047
+          ],
+          "t": "Normal",
+          "df": 28
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "p": [
+            480,
+            718,
+            780,
+            1051
+          ],
+          "t": "Normal",
+          "df": 29
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "p": [
+            486,
+            723,
+            790,
+            1050
+          ],
+          "t": "Normal",
+          "df": 17
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "p": [
+            480,
+            720,
+            781,
+            1058
+          ],
+          "t": "Normal",
+          "df": 37
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "p": [
+            489,
+            721,
+            781,
+            1012
+          ],
+          "t": "Normal",
+          "df": -17
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "p": [
+            479,
+            717,
+            782,
+            1061
+          ],
+          "t": "Normal",
+          "df": 37
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ],
+      "9": [
+        {
+          "d": 1,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 2,
+          "w": 1,
+          "obs": "",
+          "t": "Feriado (Finados)",
+          "df": 0
+        },
+        {
+          "d": 3,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 4,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 5,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 6,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 7,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 8,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 9,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 10,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 11,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 12,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 13,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 14,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 15,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 16,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 17,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 18,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 19,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 20,
+          "w": 5,
+          "obs": "",
+          "t": "Feriado (Consciência Negra)",
+          "df": 0
+        },
+        {
+          "d": 21,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 22,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 23,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 24,
+          "w": 2,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 25,
+          "w": 3,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 26,
+          "w": 4,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 27,
+          "w": 5,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        },
+        {
+          "d": 28,
+          "w": 6,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 29,
+          "w": 0,
+          "obs": "",
+          "t": "Folga",
+          "df": 0
+        },
+        {
+          "d": 30,
+          "w": 1,
+          "obs": "",
+          "t": "—",
+          "df": 0
+        }
+      ]
+    },
+    "2026-12": {
+      "1": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ],
+      "2": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ],
+      "3": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ],
+      "4": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ],
+      "5": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ],
+      "6": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ],
+      "7": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ],
+      "8": [
+        {
+          "d": 1,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 2,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 3,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 4,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 5,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 6,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 7,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 8,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 9,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 10,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 11,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 12,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 13,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 14,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 15,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 16,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 17,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 18,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 19,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 20,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 21,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 22,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 23,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 24,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 25,
+          "w": 5,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 26,
+          "w": 6,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 27,
+          "w": 0,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 28,
+          "w": 1,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 29,
+          "w": 2,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 30,
+          "w": 3,
+          "obs": "",
+          "t": "—"
+        },
+        {
+          "d": 31,
+          "w": 4,
+          "obs": "",
+          "t": "—"
+        }
+      ]
+    }
+  },
+  "updatedAt": 1795010294348,
+  "updatedBy": "cli_t34w737f_mwlzzxc7"
+}

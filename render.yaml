@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: klara-ecossistema
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: klara-ecossistema-db
+          property: connectionString
+
+databases:
+  - name: klara-ecossistema-db
+    plan: free
+    databaseName: klara_ecossistema
+    user: klara_admin
