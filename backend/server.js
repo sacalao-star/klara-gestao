@@ -1124,7 +1124,9 @@ const server = http.createServer(async (req, res) => {
       if (!String(next.name || '').trim()) return json(res, 400, { error: 'Nome obrigatório.' });
       if (next.hora_entrada) mins(next.hora_entrada);
       if (next.hora_saida) mins(next.hora_saida);
-      if (next.hora_entrada && next.hora_saida) {
+      if (p.weekly_minutes !== undefined && p.weekly_minutes !== null && p.weekly_minutes !== '') {
+        next.weekly_minutes = Number(p.weekly_minutes);
+      } else if (next.hora_entrada && next.hora_saida && !next.weekly_minutes) {
         next.weekly_minutes = computeWeeklyMinutes(next.hora_entrada, next.hora_saida);
       }
 
